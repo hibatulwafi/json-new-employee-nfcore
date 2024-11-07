@@ -1,4 +1,24 @@
- {
+{
   "status": "success",
-  "step": 1
- }
+  "step": 7,
+  "cand_others":{
+    "7_other_data":[
+      {
+        "id": null,
+        "form_title": "7_other_data",
+        "value1": "KTP",
+        "value2": "ktp.jpg",
+        "note": null
+      }
+    ],
+    "7_other_data_admin":[
+      {
+        "id": null,
+        "form_title": "7_other_data_admin",
+        "value1": "Nomor Rekening BCA",
+        "value2": "1640898976",
+        "note": null
+      }
+    ]
+  }
+}
