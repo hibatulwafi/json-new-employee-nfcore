@@ -1,4 +1,15 @@
- {
+{
   "status": "success",
-  "step": 1
- }
+  "step": 5,
+  "cand_others":{
+    "6_personal_wealth":[
+      {
+        "id": null,
+        "form_title": "6_personal_wealth",
+        "value1": "Memiliki Rumah",
+        "value2": "Ya",
+        "note": "Rumah Sendiri"
+      }
+    ]
+  }
+}
