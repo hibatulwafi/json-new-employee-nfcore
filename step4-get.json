@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "step": 3,
+  "step": 4,
   "cand_work_experience": [
     {
       "candidate_code": "HR241000005",
@@ -33,7 +33,7 @@
       "resignation_reason": "Kantor Kejauhan"
     }
   ],
-  "emp_contact_references": [
+  "cand_family_reference": [
     {
       "name": "Dimas",
       "phone_number": "+6281219908281",
@@ -47,5 +47,16 @@
       "company_name": "Merry Riana Group",
       "level": "Spv"
     }
-  ]
+  ],
+  "cand_others":{
+    "organizational_structure":[
+      {
+        "id": null,
+        "form_title": "organizational_structure",
+        "value1": "image.jpg",
+        "value2": "",
+        "note": ""
+      }
+    ]
+  }
 }
