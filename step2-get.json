@@ -29,7 +29,7 @@
       "company_name": "Karang Anyar"
     }
   ],
-  "emergency_contact": [
+  "cand_family_emergency": [
     {
       "id": null,
       "family_ties": "paman",
@@ -43,7 +43,7 @@
       "phone_number": "+6281219908281"
     }
   ],
-  "emp_family_relatives": [
+  "cand_family_connection": [
     {
       "id": null,
       "family_ties": "paman",
@@ -59,31 +59,4 @@
       "division": "Finance"
     }
   ],
-  "emp_others": { //alternative
-    "emergency_contact": [
-      {
-        "id": 1,
-        "form_title": "2e_emergency_contact",
-        "value1": "paman",
-        "value2": "Agus",
-        "notes": "+6281219908281"
-      },
-      {
-        "id": null, // jika null = data baru
-        "form_title": "2e_emergency_contact",
-        "value1": "rekan",
-        "value2": "Rahmat",
-        "notes": "+6281219908281"
-      }
-    ],
-    "emp_family_relatives": [
-      {
-        "id": 1,
-        "form_title": "2e_family_relatives",
-        "value1": "rekan",
-        "value2": "Agus",
-        "note": "Spv" //division nya disimpen dmn ya?
-      }
-    ]
-  }
 }
