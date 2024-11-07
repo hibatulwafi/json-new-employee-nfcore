@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "step": 3,
+  "cand_education": [
+    {
+      "formal_education": [
+        {
+          "candidate_code": "HR241000005",
+          "institution_name": "SDN GP CBM",
+          "level": "SD",
+          "major": "-",
+          "city": "Sukabumi",
+          "start_date": "2022-01-01",
+          "end_date": "2024-01-01",
+          "notes": "Pindah ke Brawijaya kelas 3SD"
+        },
+        {
+          "candidate_code": "HR241000005",
+          "institution_name": "SMPN 10",
+          "level": "SMP",
+          "major": "-",
+          "city": "Sukabumi",
+          "start_date": "2022-01-01",
+          "end_date": "2024-01-01",
+          "notes": "Nilai Sekolah 80"
+        },
+        {
+          "candidate_code": "HR241000005",
+          "institution_name": "SMAN 2",
+          "level": "SMA",
+          "major": "IPA",
+          "city": "Sukabumi",
+          "start_date": "2022-01-01",
+          "end_date": "2024-01-01",
+          "notes": "Nilai Sekolah 75"
+        }
+      ]
+    },
+    {
+      "universities": [
+        {
+          "candidate_code": "HR241000005",
+          "institution_name": "Politeknik Sukabumi",
+          "level": "Diploma",
+          "major": "TKJ",
+          "city": "Sukabumi",
+          "start_date": "2022-01-01",
+          "end_date": "2024-01-01",
+          "notes": "GPA 3.5"
+        }
+      ]
+    },
+    {
+      "nonformal_education": [
+        {
+          "candidate_code": "HR241000005",
+          "institution_name": "Dicoding Indonesia",
+          "level": "Other",
+          "major": "Digital Marketing Expert",
+          "city": "Jakarta",
+          "start_date": "2022-01-01",
+          "end_date": "2024-01-01",
+          "notes": "Bootcamp digital marketing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "step": 3,
+  "cand_work_experience": [
+    {
+      "candidate_code": "HR241000005",
+      "company_name": "PT Vita",
+      "company_address": "KB.Jeruk",
+      "company_phone": "008",
+      "business_sector": "Ritail",
+      "superior": "Rizal",
+      "total_employees": 7,
+      "start_date": "2024-01-01T00:00:00.000000Z",
+      "end_date": "2024-01-01T00:00:00.000000Z",
+      "job_title": "DevO",
+      "sallary_gross": "123456789012",
+      "job_desc": "Apa aja boleh",
+      "resignation_reason": "Kantor Kejauhan"
+    },
+    {
+      "candidate_code": "HR241000005",
+      "company_name": "PT Vita",
+      "company_address": "KB.Jeruk",
+      "company_phone": "008",
+      "business_sector": "Ritail",
+      "superior": "Rizal",
+      "total_employees": 7,
+      "start_date": "2024-01-01T00:00:00.000000Z",
+      "end_date": "2024-01-01T00:00:00.000000Z",
+      "job_title": "DevO",
+      "sallary_gross": "123456789012",
+      "job_desc": "Apa aja boleh",
+      "resignation_reason": "Kantor Kejauhan"
+    }
+  ],
+  "emp_contact_references": [
+    {
+      "name": "Dimas",
+      "phone_number": "+6281219908281",
+      "company_name": "Merry Riana Group",
+      "level": "Manager"
+    },
+    
+    {
+      "name": "Joce",
+      "phone_number": "+6281219908281",
+      "company_name": "Merry Riana Group",
+      "level": "Spv"
+    }
+  ]
+}

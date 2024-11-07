@@ -1,0 +1,89 @@
+{
+  "status": "success",
+  "step": 2,
+  "cand_family": [
+    {
+      "id": 1,
+      "employee_code": "HR241000005",
+      "family_ties": "ayah",
+      "name": "Sudhjarwadi",
+      "is_alive": 1,
+      "age": 551,
+      "gender": 1,
+      "phone_number": "+6281219908281",
+      "educational_background": "sma",
+      "job_title": "Wiraswasta",
+      "company_name": "PT.Putra"
+    },
+    {
+      "id": 2,
+      "candidate_code": "HR241000005",
+      "family_ties": "ibu",
+      "name": "Mustika Asiah",
+      "is_alive": 1,
+      "age": 52,
+      "gender": 2,
+      "phone_number": "+6281219908281",
+      "educational_background": "sma",
+      "job_title": "IRT",
+      "company_name": "Karang Anyar"
+    }
+  ],
+  "emergency_contact": [
+    {
+      "id": null,
+      "family_ties": "paman",
+      "name": "Agus",
+      "phone_number": "+6281219908281"
+    },
+    {
+      "id": null,
+      "family_ties": "rekan",
+      "name": "Rahmat",
+      "phone_number": "+6281219908281"
+    }
+  ],
+  "emp_family_relatives": [
+    {
+      "id": null,
+      "family_ties": "paman",
+      "name": "Agus",
+      "position": "Staff",
+      "division": "IT"
+    },
+    {
+      "id": null,
+      "family_ties": "paman",
+      "name": "Mira",
+      "position": "Spv",
+      "division": "Finance"
+    }
+  ],
+  "emp_others": { //alternative
+    "emergency_contact": [
+      {
+        "id": 1,
+        "form_title": "2e_emergency_contact",
+        "value1": "paman",
+        "value2": "Agus",
+        "notes": "+6281219908281"
+      },
+      {
+        "id": null, // jika null = data baru
+        "form_title": "2e_emergency_contact",
+        "value1": "rekan",
+        "value2": "Rahmat",
+        "notes": "+6281219908281"
+      }
+    ],
+    "emp_family_relatives": [
+      {
+        "id": 1,
+        "form_title": "2e_family_relatives",
+        "value1": "rekan",
+        "value2": "Agus",
+        "note": "Spv" //division nya disimpen dmn ya?
+      }
+    ]
+  }
+}

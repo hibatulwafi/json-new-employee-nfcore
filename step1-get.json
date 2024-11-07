@@ -1,0 +1,60 @@
+ {
+  "status": "success",
+  "step": 1,
+  "employee": {// masuk ke table apa
+    "employee_code": "HR241000005",
+    "application_platform": "LinkedIn",
+    "photo": "base64",
+    "name": "Hibatul Wafi Putra Agust",
+    "name_alias": "Agust", // new
+    "gender": 1,
+    "blood_type": "A", // new
+    "birthplace": "Tarakan",
+    "birthdate": "2024-01-01",
+    "address_ktp": "Jombor",
+    "address_domicile": "address_domicile",
+    "home_status": "kost", // new
+    "phone": "+62812199",
+    "email": "Gesang@gmail.com",
+    "citizenship": "Indonesia",
+    "ethnic": "Sunda",
+    "ktp_number": "23xxxx",
+    "sim_number": "sim23",
+    "civilian_status": "Belum Menikah",
+    "religion": "Islam",
+    "height": 500,
+    "weight": 63
+  },
+  "emp_others": { // masuk ke table apa
+    "sosial_media": [
+      {
+        "id": 1,
+        "form_title": "1_sosial_media",
+        "value1": "facebook",
+        "value2": "Hibatul Wafi Update"
+      },
+      {
+        "id": null, //nambah baru
+        "form_title": "1_sosial_media",
+        "value1": "instagram",
+        "value2": "@wapiputra"
+      }
+    ],
+    "medical_history":[
+      {
+        "id": null,
+        "form_title": "1_medical_history",
+        "value1": "Bronkitis",
+        "value2": "Obat bronkodilator",
+        "note": "Jangan sampai kedinginan"
+      },
+      {
+        "id": null,
+        "form_title": "1_medical_history",
+        "value1": "Gerd",
+        "value2": "Mylanta",
+        "note": "Jangan sampai telat makan"
+      }
+    ]
+  }
+}
