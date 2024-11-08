@@ -9,6 +9,48 @@
         "value1": "Memiliki Rumah",
         "value2": "Ya",
         "note": "Rumah Sendiri"
+      },
+      {
+        "id": null,
+        "form_title": "6_personal_wealth",
+        "value1": "Memiliki sebidang tanah?",
+        "value2": "Ya",
+        "note": "Tanah"
+      },
+      {
+        "id": null,
+        "form_title": "6_personal_wealth",
+        "value1": "Memiliki mobil?",
+        "value2": "Ya",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "6_personal_wealth",
+        "value1": "Memiliki sepeda motor?",
+        "value2": "Ya",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "6_personal_wealth",
+        "value1": "Menyewa rumah?",
+        "value2": "Ya",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "6_personal_wealth",
+        "value1": "Tinggal di rumah milik perusahaaan?",
+        "value2": "Ya",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "6_personal_wealth",
+        "value1": "Menggunakan mobil/motor milik perusahaan??",
+        "value2": "Ya",
+        "note": null
       }
     ]
   }
