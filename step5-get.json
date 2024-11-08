@@ -1,4 +1,63 @@
- {
+{
   "status": "success",
-  "step": 1
- }
+  "step": 5,
+  "cand_others":{
+    "5_skills_interests":[
+      {
+        "id": null,
+        "form_title": "5_skills_interests",
+        "value1": "skills",
+        "value2": "Teliti",
+        "note": ""
+      },
+      {
+        "id": null,
+        "form_title": "5_skills_interests",
+        "value1": "interests",
+        "value2": "Game",
+        "note": ""
+      }
+    ],
+    "5_languages":[
+      {
+        "id": null,
+        "form_title": "5_languages",
+        "value1": "inggris",
+        "value2": "read",
+        "note": "good"
+      },
+      {
+        "id": null,
+        "form_title": "5_languages",
+        "value1": "inggris",
+        "value2": "write",
+        "note": "good"
+      },
+      {
+        "id": null,
+        "form_title": "5_languages",
+        "value1": "inggris",
+        "value2": "speak",
+        "note": "good"
+      }
+    ],
+    "5_organizations":[
+      {
+        "id": null,
+        "form_title": "5_organizations",
+        "value1": "inggris",
+        "value2": "read",
+        "note": "good"
+      }
+    ],
+    "5_additional_skills":[
+      {
+        "id": null,
+        "form_title": "5_additional_skills",
+        "value1": "Bermain Alat Musik",
+        "value2": "Gitar",
+        "note": "Jago"
+      }
+    ]
+  }
+}
