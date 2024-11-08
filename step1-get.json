@@ -2,7 +2,7 @@
   "status": "success",
   "step": 1,
   "candidate": {// masuk ke table apa
-    "employee_code": "HR241000005",
+    "candidate_code": "HR241000005",
     "application_platform": "LinkedIn",
     "photo": "base64",
     "name": "Hibatul Wafi Putra Agust",
