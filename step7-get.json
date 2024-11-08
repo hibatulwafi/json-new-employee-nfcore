@@ -6,8 +6,50 @@
       {
         "id": null,
         "form_title": "7_other_data",
+        "value1": "Buku Bank BCA",
+        "value2": "image.jpg/base64",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data",
         "value1": "KTP",
-        "value2": "ktp.jpg",
+        "value2": "image.jpg/base64",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data",
+        "value1": "NPWP",
+        "value2": "image.jpg/base64",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data",
+        "value1": "Kartu Keluarga",
+        "value2": "image.jpg/base64",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data",
+        "value1": "Kartu BPJS Kesehatan",
+        "value2": "image.jpg/base64",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data",
+        "value1": "Kartu BPJS Ketenagakerjaan",
+        "value2": "image.jpg/base64",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data",
+        "value1": "Foto Formal untuk ID Card",
+        "value2": "image.jpg/base64",
         "note": null
       }
     ],
@@ -16,6 +58,20 @@
         "id": null,
         "form_title": "7_other_data_admin",
         "value1": "Nomor Rekening BCA",
+        "value2": "1640898976",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data_admin",
+        "value1": "Nomor NPWP",
+        "value2": "1640898976",
+        "note": null
+      },
+      {
+        "id": null,
+        "form_title": "7_other_data_admin",
+        "value1": "Nomor Jamsostek",
         "value2": "1640898976",
         "note": null
       }
