@@ -2,7 +2,7 @@
   "status": "success",
   "step": 7,
   "cand_others":{
-    "7_other_data":[
+    "other_data":[
       {
         "id": null,
         "form_title": "7_other_data",
@@ -53,7 +53,7 @@
         "note": null
       }
     ],
-    "7_other_data_admin":[
+    "other_data_admin":[
       {
         "id": null,
         "form_title": "7_other_data_admin",
