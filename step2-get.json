@@ -4,7 +4,7 @@
   "cand_family": [
     {
       "id": 1,
-      "employee_code": "HR241000005",
+      "candidate_code": "HR241000005",
       "family_ties": "ayah",
       "name": "Sudhjarwadi",
       "is_alive": 1,
