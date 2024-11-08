@@ -2,7 +2,7 @@
   "status": "success",
   "step": 6,
   "cand_others":{
-    "6_personal_wealth":[
+    "personal_wealth":[
       {
         "id": null,
         "form_title": "6_personal_wealth",
