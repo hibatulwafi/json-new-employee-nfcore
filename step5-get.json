@@ -2,7 +2,7 @@
   "status": "success",
   "step": 5,
   "cand_others":{
-    "5_skills_interests":[
+    "skills_interests":[
       {
         "id": null,
         "form_title": "5_skills_interests",
@@ -18,7 +18,7 @@
         "note": ""
       }
     ],
-    "5_languages":[
+    "languages":[
       {
         "id": null,
         "form_title": "5_languages",
@@ -41,7 +41,7 @@
         "note": "good"
       }
     ],
-    "5_organizations":[
+    "organizations":[
       {
         "id": null,
         "form_title": "5_organizations",
@@ -50,7 +50,7 @@
         "note": null
       }
     ],
-    "5_additional_skills":[
+    "additional_skills":[
       {
         "id": null,
         "form_title": "5_additional_skills",
