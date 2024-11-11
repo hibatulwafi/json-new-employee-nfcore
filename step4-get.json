@@ -38,14 +38,14 @@
       "name": "Dimas",
       "phone_number": "+6281219908281",
       "company_name": "Merry Riana Group",
-      "level": "Manager"
+      "job_title": "Manager"
     },
     
     {
       "name": "Joce",
       "phone_number": "+6281219908281",
       "company_name": "Merry Riana Group",
-      "level": "Spv"
+      "job_title": "Spv"
     }
 
   ],
