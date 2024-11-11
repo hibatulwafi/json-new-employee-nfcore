@@ -48,15 +48,15 @@
       "id": null,
       "family_ties": "paman",
       "name": "Agus",
-      "position": "Staff",
-      "division": "IT"
+      "job_title": "Staff", //jabatan
+      "notes": "IT" // divisi
     },
     {
       "id": null,
       "family_ties": "paman",
       "name": "Mira",
-      "position": "Spv",
-      "division": "Finance"
+      "job_title": "Spv",  // jabatan
+      "notes": "Finance" // notes
     }
   ],
 }
